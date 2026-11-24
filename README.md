@@ -1,6 +1,6 @@
-# TTD QuickFill
+# TTD QuickFill Manual
 
-TTD QuickFill is a local Chrome extension for the pilgrim-details form on <https://ttdevasthanams.ap.gov.in/>. It prepares the next saved value on your clipboard as you paste through the form:
+TTD QuickFill Manual is a local Chrome extension for the pilgrim-details form on <https://ttdevasthanams.ap.gov.in/>. It prepares the next saved value on your clipboard as you paste through the form:
 
 ```text
 Pilgrim 1: Name → Photo ID number → Pilgrim 2: Name → Photo ID number → …
@@ -19,7 +19,7 @@ QuickFill never types into the TTD page, clicks anything, or submits a form. It 
 
 ## Install
 
-1. [Download `ttd-quickfill.zip`](https://github.com/gautamxdev/ttd-quickfill/raw/main/ttd-quickfill.zip) and unzip it.
+1. [Download `ttd-quickfill.zip`](https://github.com/gautamxdev/ttd-quickfill-manual/raw/main/ttd-quickfill.zip) and unzip it.
 2. In Chrome, open `chrome://extensions`.
 3. Click **Load unpacked** and choose the unzipped `ttd-quickfill` folder—the folder containing `manifest.json`.
 4. Pin **TTD QuickFill**, then click its icon to open the side panel.
